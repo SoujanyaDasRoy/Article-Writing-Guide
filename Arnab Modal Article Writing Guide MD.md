@@ -1,7 +1,5 @@
 # Article Writing Guide
 
-**========================================================================================================**
-
 ### Step 1: Go to NotebookLM
 
 ### Step 2: Paste the `<topic name>` into the box and click the blue arrow
