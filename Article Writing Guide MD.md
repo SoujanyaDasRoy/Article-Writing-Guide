@@ -12,7 +12,7 @@
 
 ### Step 6: Run Prompt 2 (to get every information about the topic)
 
-### Step 7: List down the sources for `<topic name>`
+### Step 7: List down the sources for `<topic name>` (Write this as a PROMPT to Notebook LM)
 
 ---
 
