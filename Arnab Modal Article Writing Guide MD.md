@@ -58,8 +58,6 @@ Check headline suggestions from ChatGPT and add one. DONE.
 
 ---
 
-**========================================================================================================**
-
 ### Note:
 
 Keep running checks after every time you rewrite the article.
